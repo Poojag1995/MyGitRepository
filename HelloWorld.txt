@@ -1,9 +1,9 @@
 classn HelloWorld{
 
-	void myMethod(){
+	Static void myMethod(){
   	      system.out.println("HelloWorld....Welcome to Git...!!!");
 
 	}
  	public static void main(String args[]){
-	              
+	              HelloWorld.myMethod();
 }
