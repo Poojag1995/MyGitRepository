@@ -1,0 +1,4 @@
+classn HelloWorld{
+main(){
+sysot("HelloWorld....");
+}
